@@ -1,0 +1,8 @@
+{
+  "scogliera": { "ondaRosso": 1.5, "ondaArancione": 1.0, "rafficaRosso": 50, "rafficaArancione": 35 },
+  "molo":      { "ondaRosso": 1.5, "ondaArancione": 1.0, "rafficaRosso": 50, "rafficaArancione": 35 },
+  "spiaggia":  { "ondaRosso": 2.5, "ondaArancione": 1.8, "rafficaRosso": 55, "rafficaArancione": 40 },
+  "foce":      { "ondaRosso": 2.5, "ondaArancione": 1.8, "rafficaRosso": 55, "rafficaArancione": 40, "pioggia72Rosso": 60, "portataRosso": 3, "portataArancione": 2 },
+  "lago":      { "rafficaRosso": 45, "rafficaArancione": 30 },
+  "barca":     { "ondaRosso": 1.2, "ondaArancione": 0.8, "rafficaRosso": 35, "rafficaArancione": 25 }
+}

@@ -1,0 +1,854 @@
+{
+ "riva-traiano": {
+  "obiettivi": [
+   {
+    "specie": "seppia",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "calamaro",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "serra",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "occhiata",
+    "tecnica": "galleggiante"
+   },
+   {
+    "specie": "sarago-maggiore",
+    "tecnica": "passata"
+   }
+  ],
+  "dovePosizionarsi": "Lungo la diga foranea, lato esterno per lo spinning e l'eging verso il mare aperto; vicino all'imboccatura del porto per i predatori; di notte vicino ai lampioni per i calamari.",
+  "erroriDaEvitare": [
+   "Scendere sui massi esterni della diga: resta sul camminamento",
+   "Pescare vicino alle barche ormeggiate o all'ingresso del porto: intralci le manovre",
+   "Usare totanare troppo pesanti con poca acqua: si incagliano"
+  ],
+  "accesso": "Dalla via Aurelia (SS1), uscita per il porto turistico Riva di Traiano, tra Civitavecchia e Santa Marinella.",
+  "parcheggio": "Parcheggi ampi dentro e fuori dal porto (fonte: Planetspin, 31/03/2026). Verifica eventuali tariffe all'ingresso.",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.0655,11.8125",
+  "divieti": [
+   {
+    "testo": "È un porto turistico privato: chiedi alla direzione del porto dove è permesso pescare (da controllare: direzione Porto Riva di Traiano)",
+    "fonte": "https://www.planetspin.it/articoli/itinerari/lazio/9378-porto-turistico-riva-di-traiano-uno-degli-spot-piu-produttivi-del-lazio-per-la-pesca-ai-predatori/",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Per pescare in mare serve una sola volta la comunicazione al MASAF sul portale SIAN (con SPID)",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Scarpe antiscivolo: gli scogli bagnati e con le alghe sono scivolosissimi",
+   "Mai su scogli o moli con mare mosso: un'onda più grande delle altre può buttarti in acqua",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.planetspin.it/articoli/itinerari/lazio/9378-porto-turistico-riva-di-traiano-uno-degli-spot-piu-produttivi-del-lazio-per-la-pesca-ai-predatori/"
+  ],
+  "montature": {
+   "eging": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm), 150 m",
+    "finale": "Fluorocarbon 0,22–0,26 mm, 2–3 m, legato al trecciato con nodo FG o doppio uni",
+    "peso": "Nessun piombo: pesa la totanara stessa (egi 2.5–3.5, circa 10–20 g)",
+    "amoOArtificiale": "Totanara (egi) misura 2.5–3.0 per seppie e calamari, 3.5 con mare formato; colori naturali di giorno, arancio/rosa al tramonto",
+    "esca": "Nessuna: è un'esca artificiale. Recupero: lancia, lascia affondare, 2–3 strappi morbidi, pausa"
+   },
+   "galleggiante": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20–0,22 mm (su una seconda bobina del mulinello, così non devi cambiare il trecciato)",
+    "finale": "Nylon o fluorocarbon 0,16–0,18 mm, 50–80 cm",
+    "peso": "Galleggiante scorrevole 4–8 g con pallini di piombo",
+    "amoOArtificiale": "Amo n. 10–12 (cefali, occhiate, saraghi piccoli), n. 6–8 per la spigola con gamberetto o sarda",
+    "esca": "Bigattini, mollica di pane, gamberetto, cozza sgusciata; un po' di pastura di pane e formaggio"
+   },
+   "passata": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20–0,22 mm",
+    "finale": "Fluorocarbon 0,18–0,20 mm, 1 m",
+    "peso": "Galleggiante 4–6 g, pallini scalati",
+    "amoOArtificiale": "Amo n. 8–10 a gambo corto",
+    "esca": "Cozza, gamberetto, americano (verme di mare); per il sarago anche pane e formaggio"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "santa-marinella": {
+  "obiettivi": [
+   {
+    "specie": "seppia",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "calamaro",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "polpo",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "sarago-maggiore",
+    "tecnica": "passata"
+   },
+   {
+    "specie": "sarago-fasciato",
+    "tecnica": "passata"
+   },
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   }
+  ],
+  "dovePosizionarsi": "Sugli scogli bassi e stabili del lungomare e di Capo Linaro, lanciando verso le chiazze scure di posidonia alternate a sabbia: lì cacciano seppie e calamari.",
+  "erroriDaEvitare": [
+   "Recuperare troppo veloce la totanara: deve scendere e restare vicino al fondo",
+   "Lanciare sempre nello stesso punto: sposta il lancio a ventaglio",
+   "Pescare con la mareggiata: oltre al pericolo, l'acqua torbida allontana i cefalopodi"
+  ],
+  "accesso": "Dalla via Aurelia o dall'autostrada A12 (uscita Santa Marinella); il lungomare corre lungo tutta la costa del paese, Capo Linaro è all'estremità nord.",
+  "parcheggio": "Sul lungomare e nelle vie vicine; d'estate in gran parte a pagamento (da controllare sul posto).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.03,11.842",
+  "divieti": [
+   {
+    "testo": "Le spiagge degli stabilimenti sono chiuse di notte (dalle 21 alle 6) per ordinanza del Comune: non entrare negli stabilimenti",
+    "fonte": "https://www.civonline.it/news/cronaca/1303166/santa-marinella-spiagge-degli-stabilimenti-balneari-chiuse-dalle-21-alle-6-del-giorno-successivo.html",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Nel 2026 a Pyrgi (Santa Severa) è stato disposto uno stop temporaneo di balneazione e pesca: controlla le ordinanze in vigore prima di andarci",
+    "fonte": "https://www.civonline.it/news/cronaca/1353253/santa-marinella-scatta-il-blocco-totale-a-pyrgi-stop-a-balneazione-e-pesca-ecco-cosa-succede.html",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Per pescare in mare serve una sola volta la comunicazione al MASAF sul portale SIAN (con SPID)",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Scarpe antiscivolo: gli scogli bagnati e con le alghe sono scivolosissimi",
+   "Mai su scogli o moli con mare mosso: un'onda più grande delle altre può buttarti in acqua",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.pescasubeapnea.it/mordi-e-fuggi-a-santa-marinella-e-dintorni/"
+  ],
+  "montature": {
+   "eging": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm), 150 m",
+    "finale": "Fluorocarbon 0,22–0,26 mm, 2–3 m, legato al trecciato con nodo FG o doppio uni",
+    "peso": "Nessun piombo: pesa la totanara stessa (egi 2.5–3.5, circa 10–20 g)",
+    "amoOArtificiale": "Totanara (egi) misura 2.5–3.0 per seppie e calamari, 3.5 con mare formato; colori naturali di giorno, arancio/rosa al tramonto",
+    "esca": "Nessuna: è un'esca artificiale. Recupero: lancia, lascia affondare, 2–3 strappi morbidi, pausa"
+   },
+   "passata": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20–0,22 mm",
+    "finale": "Fluorocarbon 0,18–0,20 mm, 1 m",
+    "peso": "Galleggiante 4–6 g, pallini scalati",
+    "amoOArtificiale": "Amo n. 8–10 a gambo corto",
+    "esca": "Cozza, gamberetto, americano (verme di mare); per il sarago anche pane e formaggio"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "fiumicino-tevere": {
+  "obiettivi": [
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "serra",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "cefalo",
+    "tecnica": "galleggiante"
+   },
+   {
+    "specie": "orata",
+    "tecnica": "fondo-leggero"
+   }
+  ],
+  "dovePosizionarsi": "Lungo le banchine del canale verso la foce e sulla spiaggia accanto alla foce: la spigola caccia dove l'acqua del fiume incontra il mare, soprattutto con acqua leggermente torbida.",
+  "erroriDaEvitare": [
+   "Pescare dove ormeggiano o passano i pescherecci",
+   "Usare artificiali troppo leggeri con la corrente: non arrivano in profondità",
+   "Dimenticare il guadino: le banchine sono alte e i pesci si slamano mentre li sollevi"
+  ],
+  "accesso": "Da Roma via Portuense o autostrada Roma-Fiumicino; il canale attraversa Fiumicino fino al mare, la foce è tra il faro e l'Isola Sacra.",
+  "parcheggio": "Nelle vie del centro di Fiumicino vicino al canale e sul lungomare dell'Isola Sacra (da controllare: strisce blu).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=41.7695,12.2125",
+  "divieti": [
+   {
+    "testo": "Il canale è un porto in uso: non pescare nelle zone operative e dove ormeggiano i pescherecci; controlla l'ordinanza della Capitaneria di Roma-Fiumicino",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Per pescare in mare serve una sola volta la comunicazione al MASAF sul portale SIAN (con SPID)",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Non scendere sugli argini fangosi e non entrare in acqua alla foce: la corrente è forte",
+   "Dopo forti piogge il fiume può salire in poche ore: se l'acqua cresce, allontanati",
+   "Le banchine sono alte e senza ringhiera: non sporgerti e non pescare da solo di notte",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.itineraridipesca.it/zone/fiumicino_124.html"
+  ],
+  "montature": {
+   "fondo-leggero": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,22–0,25 mm (o trecciato PE 0.8 con 10 m di shock leader in nylon 0,35)",
+    "finale": "Fluorocarbon 0,20–0,22 mm, 60–100 cm",
+    "peso": "Piombo a pera o a oliva scorrevole da 20 a 30 g (la canna regge al massimo 30 g)",
+    "amoOArtificiale": "Trave con 1 bracciolo, amo n. 4–6 (orata, mormora)",
+    "esca": "Americano o coreano (vermi di mare), cannolicchio, gamberetto. Lancia vicino, a 20–40 m, dove l'onda si rompe"
+   },
+   "galleggiante": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20–0,22 mm (su una seconda bobina del mulinello, così non devi cambiare il trecciato)",
+    "finale": "Nylon o fluorocarbon 0,16–0,18 mm, 50–80 cm",
+    "peso": "Galleggiante scorrevole 4–8 g con pallini di piombo",
+    "amoOArtificiale": "Amo n. 10–12 (cefali, occhiate, saraghi piccoli), n. 6–8 per la spigola con gamberetto o sarda",
+    "esca": "Bigattini, mollica di pane, gamberetto, cozza sgusciata; un po' di pastura di pane e formaggio"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "foce-arrone": {
+  "obiettivi": [
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "serra",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "mormora",
+    "tecnica": "fondo-leggero"
+   },
+   {
+    "specie": "orata",
+    "tecnica": "fondo-leggero"
+   }
+  ],
+  "dovePosizionarsi": "Sulla spiaggia ai due lati della foce, lanciando dove l'acqua del fiume si allarga in mare; per il fondo, nel canalone dietro la prima onda.",
+  "erroriDaEvitare": [
+   "Mettersi proprio davanti alla foce con la corrente forte",
+   "Pescare a fondo con mare troppo grosso: il piombo da 30 g non tiene",
+   "Lasciare lenze o ami sulla spiaggia: è un'area protetta"
+  ],
+  "accesso": "Tra Fregene e Maccarese, dalla via Aurelia o da Fiumicino lungo la litoranea; si arriva a piedi lungo la spiaggia.",
+  "parcheggio": "Nei parcheggi delle spiagge di Fregene sud / Maccarese (da controllare: d'estate a pagamento).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=41.862,12.188",
+  "divieti": [
+   {
+    "testo": "La zona fa parte della Riserva Naturale Statale del Litorale Romano: controlla il regolamento della riserva prima di pescare",
+    "fonte": "https://www.comune.roma.it/web-resources/cms/documents/Piano_Gestione_RNSLR_REGOLAMENTO_attuativo_RNSLR.pdf",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Per pescare in mare serve una sola volta la comunicazione al MASAF sul portale SIAN (con SPID)",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Non scendere sugli argini fangosi e non entrare in acqua alla foce: la corrente è forte",
+   "Dopo forti piogge il fiume può salire in poche ore: se l'acqua cresce, allontanati",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.obiettivopesca.org/home.php?id_pagina_statica=246"
+  ],
+  "montature": {
+   "fondo-leggero": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,22–0,25 mm (o trecciato PE 0.8 con 10 m di shock leader in nylon 0,35)",
+    "finale": "Fluorocarbon 0,20–0,22 mm, 60–100 cm",
+    "peso": "Piombo a pera o a oliva scorrevole da 20 a 30 g (la canna regge al massimo 30 g)",
+    "amoOArtificiale": "Trave con 1 bracciolo, amo n. 4–6 (orata, mormora)",
+    "esca": "Americano o coreano (vermi di mare), cannolicchio, gamberetto. Lancia vicino, a 20–40 m, dove l'onda si rompe"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "foce-marta": {
+  "obiettivi": [
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "serra",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "leccia-amia",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "orata",
+    "tecnica": "fondo-leggero"
+   },
+   {
+    "specie": "mormora",
+    "tecnica": "fondo-leggero"
+   }
+  ],
+  "dovePosizionarsi": "Sulla spiaggia accanto alla foce del Marta, al Lido di Tarquinia: lancia verso la linea dove l'acqua torbida del fiume incontra quella chiara del mare.",
+  "erroriDaEvitare": [
+   "Pescare dentro il fiume senza licenza regionale: il tratto di fiume è acqua interna",
+   "Arrivare a metà mattina: i predatori sono attivi soprattutto all'alba",
+   "Ignorare il vento da mare forte: rende il lancio impossibile con 10–30 g"
+  ],
+  "accesso": "Dalla via Aurelia, uscita Tarquinia, poi verso Lido di Tarquinia; la foce è a sud del lido.",
+  "parcheggio": "Sul lungomare del Lido di Tarquinia (da controllare: d'estate a pagamento).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.2105,11.696",
+  "divieti": [
+   {
+    "testo": "Vicino c'è la Riserva Naturale delle Saline di Tarquinia: dentro la riserva non si pesca (da controllare i confini sul posto)",
+    "fonte": "https://www.obiettivopesca.org/home.php?id_pagina_statica=246",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Il fiume Marta è tra i corsi d'acqua con zone di frega: dal 1° aprile al 30 giugno nei tratti indicati la pesca è vietata; controlla il tratto esatto",
+    "fonte": "https://regione.lazio.it/sites/default/files/documentazione/2026/AGC-DD-G07959-11-06-2026-Allegato-1.pdf",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Per pescare in mare serve una sola volta la comunicazione al MASAF sul portale SIAN (con SPID)",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Non scendere sugli argini fangosi e non entrare in acqua alla foce: la corrente è forte",
+   "Dopo forti piogge il fiume può salire in poche ore: se l'acqua cresce, allontanati",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.obiettivopesca.org/home.php?id_pagina_statica=246"
+  ],
+  "montature": {
+   "fondo-leggero": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,22–0,25 mm (o trecciato PE 0.8 con 10 m di shock leader in nylon 0,35)",
+    "finale": "Fluorocarbon 0,20–0,22 mm, 60–100 cm",
+    "peso": "Piombo a pera o a oliva scorrevole da 20 a 30 g (la canna regge al massimo 30 g)",
+    "amoOArtificiale": "Trave con 1 bracciolo, amo n. 4–6 (orata, mormora)",
+    "esca": "Americano o coreano (vermi di mare), cannolicchio, gamberetto. Lancia vicino, a 20–40 m, dove l'onda si rompe"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "anzio": {
+  "obiettivi": [
+   {
+    "specie": "seppia",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "calamaro",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "aguglia",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "sarago-maggiore",
+    "tecnica": "passata"
+   }
+  ],
+  "dovePosizionarsi": "Sugli scogli di Capo d'Anzio (zona Grotte di Nerone e faro) e sulla scogliera esterna del porto, lanciando verso il fondale misto di roccia e posidonia.",
+  "erroriDaEvitare": [
+   "Pescare dentro il porto dove passano traghetti e barche",
+   "Andare sugli scogli più esterni con mare da sud-ovest: è la direzione da cui arriva l'onda",
+   "Usare finali troppo sottili tra gli scogli: si tagliano"
+  ],
+  "accesso": "Da Roma via Nettunense o via Pontina; Capo d'Anzio è subito a ovest del porto.",
+  "parcheggio": "Nelle vie vicino al porto e al lungomare (da controllare: strisce blu).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=41.444,12.617",
+  "divieti": [
+   {
+    "testo": "Nel porto valgono le ordinanze della Capitaneria di Anzio: non pescare nelle aree portuali operative",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Per pescare in mare serve una sola volta la comunicazione al MASAF sul portale SIAN (con SPID)",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Scarpe antiscivolo: gli scogli bagnati e con le alghe sono scivolosissimi",
+   "Mai su scogli o moli con mare mosso: un'onda più grande delle altre può buttarti in acqua",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.obiettivopesca.org/home.php?id_pagina_statica=246"
+  ],
+  "montature": {
+   "eging": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm), 150 m",
+    "finale": "Fluorocarbon 0,22–0,26 mm, 2–3 m, legato al trecciato con nodo FG o doppio uni",
+    "peso": "Nessun piombo: pesa la totanara stessa (egi 2.5–3.5, circa 10–20 g)",
+    "amoOArtificiale": "Totanara (egi) misura 2.5–3.0 per seppie e calamari, 3.5 con mare formato; colori naturali di giorno, arancio/rosa al tramonto",
+    "esca": "Nessuna: è un'esca artificiale. Recupero: lancia, lascia affondare, 2–3 strappi morbidi, pausa"
+   },
+   "passata": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20–0,22 mm",
+    "finale": "Fluorocarbon 0,18–0,20 mm, 1 m",
+    "peso": "Galleggiante 4–6 g, pallini scalati",
+    "amoOArtificiale": "Amo n. 8–10 a gambo corto",
+    "esca": "Cozza, gamberetto, americano (verme di mare); per il sarago anche pane e formaggio"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "bracciano": {
+  "obiettivi": [
+   {
+    "specie": "persico-reale",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "black-bass",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "luccio",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "cavedano",
+    "tecnica": "galleggiante"
+   },
+   {
+    "specie": "carpa",
+    "tecnica": "galleggiante"
+   }
+  ],
+  "montature": {
+   "galleggiante": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20 mm",
+    "finale": "Nylon 0,16–0,18 mm, 50 cm",
+    "peso": "Galleggiante 3–5 g con pallini",
+    "amoOArtificiale": "Amo n. 10–14",
+    "esca": "Bigattini, mais dolce, mollica di pane; per la carpa mais o boiles piccole e amo n. 6–8"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm)",
+    "finale": "Fluorocarbon 0,22–0,25 mm, 1 m; per il luccio finale 0,45 mm o cavetto (ha i denti)",
+    "peso": "Artificiali da 10 a 15 g (sotto i 10 g la tua canna lancia male)",
+    "amoOArtificiale": "Rotante n. 3–4, ondulante 10 g, minnow 7–9 cm, gommina con testina 10 g per il black bass",
+    "esca": "Nessuna: artificiali. Recupero lento vicino a canneti e alberi in acqua"
+   }
+  },
+  "dovePosizionarsi": "Dalle spiagge libere di Vigna di Valle, Anguillara e Trevignano, vicino a canneti, pontili e alberi caduti in acqua: lì si nascondono persici, black bass e lucci.",
+  "erroriDaEvitare": [
+   "Pescare senza licenza regionale",
+   "Usare artificiali troppo pesanti: in lago bastano 10–15 g",
+   "Rilasciare il black bass senza controllare le regole in vigore: in passato era vietato rimetterlo in acqua"
+  ],
+  "accesso": "Da Roma via Cassia bis (uscita Cesano) o via Braccianese verso Anguillara; Vigna di Valle è tra Anguillara e Bracciano.",
+  "parcheggio": "Lungolago di Anguillara e Trevignano e parcheggi delle spiagge (da controllare: d'estate a pagamento).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.088,12.215",
+  "divieti": [
+   {
+    "testo": "Serve la licenza di pesca della Regione Lazio (tipo B) da portare con un documento",
+    "fonte": "Regione Lazio, pesca sportiva — https://regione.lazio.it/cittadini/agricoltura/pesca-acquacoltura/pesca-sportiva-dilettantistica",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Vietato pescare dal tramonto all'alba (con un'ora di margine prima e dopo)",
+    "fonte": "L.R. Lazio 87/1990 — https://www.consiglio.regione.lazio.it/consiglio-regionale/?vw=leggiregionalidettaglio&id=7117&sv=vigente",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Anguilla vietata nel 2026 in tutto il Lazio",
+    "fonte": "L.R. Lazio 87/1990 — https://www.consiglio.regione.lazio.it/consiglio-regionale/?vw=leggiregionalidettaglio&id=7117&sv=vigente",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Il lago è nel Parco Naturale Regionale di Bracciano-Martignano: controlla le regole del parco e della navigazione lacuale",
+    "fonte": "https://static.cittametropolitanaroma.it/uploads/Regolamento-sicurezza-navigazione-lacuale-per-pubbl..pdf",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Durante la sperimentazione 2018 il black bass pescato non poteva essere rimesso in acqua e si potevano tenere al massimo 2 lucci: controlla se è ancora così",
+    "fonte": "https://www.ecolagodibracciano.it/minnucci-dalla-regione-via-libera-alla-pesca-sportiva-nei-laghi-di-bracciano-martignano-sperimentazione-per-un-anno/",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Le rive possono essere fangose e scivolose",
+   "Di notte in acqua dolce non si pesca (L.R. Lazio 87/1990)",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.romaincampagna.it/itinerari/pescare-nel-lago-di-bracciano/"
+  ]
+ },
+ "martignano": {
+  "obiettivi": [
+   {
+    "specie": "black-bass",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "luccio",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "persico-reale",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "carpa",
+    "tecnica": "galleggiante"
+   }
+  ],
+  "montature": {
+   "galleggiante": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Nylon 0,20 mm",
+    "finale": "Nylon 0,16–0,18 mm, 50 cm",
+    "peso": "Galleggiante 3–5 g con pallini",
+    "amoOArtificiale": "Amo n. 10–14",
+    "esca": "Bigattini, mais dolce, mollica di pane; per la carpa mais o boiles piccole e amo n. 6–8"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm)",
+    "finale": "Fluorocarbon 0,22–0,25 mm, 1 m; per il luccio finale 0,45 mm o cavetto (ha i denti)",
+    "peso": "Artificiali da 10 a 15 g (sotto i 10 g la tua canna lancia male)",
+    "amoOArtificiale": "Rotante n. 3–4, ondulante 10 g, minnow 7–9 cm, gommina con testina 10 g per il black bass",
+    "esca": "Nessuna: artificiali. Recupero lento vicino a canneti e alberi in acqua"
+   }
+  },
+  "dovePosizionarsi": "Dalla riva vicino ai canneti e alle zone dove il fondo scende in fretta; l'acqua è limpida, quindi usa finali sottili e colori naturali.",
+  "erroriDaEvitare": [
+   "Fare rumore sulla riva: con l'acqua limpida i pesci ti vedono",
+   "Usare colori sgargianti in pieno sole",
+   "Pescare senza licenza regionale"
+  ],
+  "accesso": "Dalla Cassia bis, uscita Campagnano, poi strada per la valle del Baccano e una stradina stretta fino al lago; oppure da Anguillara.",
+  "parcheggio": "Parcheggio vicino al lago, d'estate a pagamento (da controllare sul posto).",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.111,12.316",
+  "divieti": [
+   {
+    "testo": "Serve la licenza di pesca della Regione Lazio (tipo B) da portare con un documento",
+    "fonte": "Regione Lazio, pesca sportiva — https://regione.lazio.it/cittadini/agricoltura/pesca-acquacoltura/pesca-sportiva-dilettantistica",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Vietato pescare dal tramonto all'alba (con un'ora di margine prima e dopo)",
+    "fonte": "L.R. Lazio 87/1990 — https://www.consiglio.regione.lazio.it/consiglio-regionale/?vw=leggiregionalidettaglio&id=7117&sv=vigente",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Anguilla vietata nel 2026 in tutto il Lazio",
+    "fonte": "L.R. Lazio 87/1990 — https://www.consiglio.regione.lazio.it/consiglio-regionale/?vw=leggiregionalidettaglio&id=7117&sv=vigente",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Il lago è nel Parco Naturale Regionale di Bracciano-Martignano: controlla le regole del parco",
+    "fonte": "https://www.turismoroma.it/it/luoghi/parco-naturale-regionale-di-bracciano-martignano",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Le rive possono essere fangose e scivolose",
+   "Di notte in acqua dolce non si pesca (L.R. Lazio 87/1990)",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.romaincampagna.it/itinerari/pescare-nel-lago-di-martignano/"
+  ]
+ },
+ "tos-marina-grosseto": {
+  "obiettivi": [
+   {
+    "specie": "seppia",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "calamaro",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "sgombro",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "serra",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "spigola",
+    "tecnica": "spinning"
+   }
+  ],
+  "dovePosizionarsi": "Con la barca in deriva lenta su fondali da 6 a 30 m: eging sopra le macchie di posidonia, spinning dove vedi uccelli in caccia o pesce in superficie.",
+  "erroriDaEvitare": [
+   "Ancorare sulla posidonia: è protetta e si rovina",
+   "Usare totanare troppo leggere con la deriva veloce",
+   "Dimenticare RecFishing quando si pesca dalla barca"
+  ],
+  "accesso": "Dal porto di Marina di Grosseto con la barca di famiglia.",
+  "parcheggio": "Al porto di Marina di Grosseto.",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.715,10.965",
+  "divieti": [
+   {
+    "testo": "Da barca (dai 16 anni) è obbligatoria l'app RecFishing per dichiarare le catture di tonno rosso, pesce spada, lampuga e alalunga",
+    "fonte": "Circolare MASAF n. 199994 del 28/04/2026 (RecFishing), sintesi: https://www.trainadallaspiaggia.it/chi-non-deve-usare-recfishing-circolare-masaf-2026/",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Serve comunque la comunicazione una tantum al MASAF sul portale SIAN",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Limite di 5 kg di pescato al giorno a persona (escluso un singolo pesce più pesante) e una sola cernia",
+    "fonte": "https://scirocco.app/blog/limiti-cattura-taglie-minime-pesca/",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Dal 1° maggio al 30 settembre, negli orari di balneazione, non si pesca nelle zone dove si fa il bagno: controlla l'ordinanza balneare dell'anno della Capitaneria competente",
+    "fonte": "Ordinanze delle Capitanerie di porto — https://www.guardiacostiera.gov.it",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Giubbotto salvagente indossato sul tender",
+   "Controlla sempre il meteo prima di uscire e rientra se il vento sale",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.trainadallaspiaggia.it/chi-non-deve-usare-recfishing-circolare-masaf-2026/"
+  ],
+  "montature": {
+   "eging": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm), 150 m",
+    "finale": "Fluorocarbon 0,22–0,26 mm, 2–3 m, legato al trecciato con nodo FG o doppio uni",
+    "peso": "Nessun piombo: pesa la totanara stessa (egi 2.5–3.5, circa 10–20 g)",
+    "amoOArtificiale": "Totanara (egi) misura 2.5–3.0 per seppie e calamari, 3.5 con mare formato; colori naturali di giorno, arancio/rosa al tramonto",
+    "esca": "Nessuna: è un'esca artificiale. Recupero: lancia, lascia affondare, 2–3 strappi morbidi, pausa"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ },
+ "tos-cala-forno": {
+  "obiettivi": [
+   {
+    "specie": "seppia",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "calamaro",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "polpo",
+    "tecnica": "eging"
+   },
+   {
+    "specie": "serra",
+    "tecnica": "spinning"
+   },
+   {
+    "specie": "leccia-amia",
+    "tecnica": "spinning"
+   }
+  ],
+  "dovePosizionarsi": "Con la barca davanti alla costa rocciosa, in deriva lungo il limite tra roccia e sabbia; eging a 5–15 m di fondo.",
+  "erroriDaEvitare": [
+   "Sbarcare o ancorare senza controllare le regole del Parco",
+   "Avvicinarsi troppo agli scogli con onda lunga",
+   "Ancorare sulla posidonia"
+  ],
+  "accesso": "Solo dal mare (con la barca) o a piedi con un sentiero di 8–9 km dal Parco della Maremma (fonte: spiagge.it, 13/04/2026).",
+  "parcheggio": "Al porto di partenza della barca.",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=42.605,11.045",
+  "divieti": [
+   {
+    "testo": "Da barca (dai 16 anni) è obbligatoria l'app RecFishing per dichiarare le catture di tonno rosso, pesce spada, lampuga e alalunga",
+    "fonte": "Circolare MASAF n. 199994 del 28/04/2026 (RecFishing), sintesi: https://www.trainadallaspiaggia.it/chi-non-deve-usare-recfishing-circolare-masaf-2026/",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Serve comunque la comunicazione una tantum al MASAF sul portale SIAN",
+    "fonte": "Comunicazione pesca ricreativa in mare (MASAF, portale SIAN) — https://www.sian.it",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Limite di 5 kg di pescato al giorno a persona (escluso un singolo pesce più pesante) e una sola cernia",
+    "fonte": "https://scirocco.app/blog/limiti-cattura-taglie-minime-pesca/",
+    "controllato": "2026-11-01"
+   },
+   {
+    "testo": "Il regolamento del Parco della Maremma vieta la pesca nelle acque interne del parco; per il mare davanti a Cala di Forno (sbarco, ancoraggio) chiedi all'Ente Parco",
+    "fonte": "https://parco-maremma.it/wp-content/uploads/2015/07/regolamento-parco-regionale-della-maremma-adottato.pdf",
+    "controllato": "2026-11-01"
+   }
+  ],
+  "sicurezza": [
+   "Giubbotto salvagente indossato sul tender",
+   "Controlla sempre il meteo prima di uscire e rientra se il vento sale",
+   "Avvisa sempre qualcuno di dove vai e quando torni",
+   "Porta il telefono carico",
+   "Emergenze in mare: Guardia Costiera 1530; emergenze generali: 112"
+  ],
+  "fonti": [
+   "https://www.spiagge.it/magazine/cala-di-forno/"
+  ],
+  "montature": {
+   "eging": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.6 (circa 0,12 mm), 150 m",
+    "finale": "Fluorocarbon 0,22–0,26 mm, 2–3 m, legato al trecciato con nodo FG o doppio uni",
+    "peso": "Nessun piombo: pesa la totanara stessa (egi 2.5–3.5, circa 10–20 g)",
+    "amoOArtificiale": "Totanara (egi) misura 2.5–3.0 per seppie e calamari, 3.5 con mare formato; colori naturali di giorno, arancio/rosa al tramonto",
+    "esca": "Nessuna: è un'esca artificiale. Recupero: lancia, lascia affondare, 2–3 strappi morbidi, pausa"
+   },
+   "spinning": {
+    "mulinello": "Mulinello taglia 2500 (frizione anteriore), da comprare: è il primo acquisto",
+    "filo": "Trecciato PE 0.8 (circa 0,15 mm)",
+    "finale": "Fluorocarbon 0,28–0,30 mm, 1–1,5 m (0,40 mm se ci sono serra)",
+    "peso": "Artificiali da 10 a 25 g, mai oltre 30 g",
+    "amoOArtificiale": "Minnow 9–12 cm, ondulante o metal jig 15–20 g, gommina (soft bait) con testina 10–15 g, collegati con moschettone piccolo",
+    "esca": "Nessuna: artificiali. Recupero regolare e lento, con qualche pausa"
+   }
+  }
+ }
+}

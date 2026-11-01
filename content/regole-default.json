@@ -1,0 +1,284 @@
+[
+ {
+  "id": "eging-mare-calmo",
+  "applicaA": {
+   "tecniche": [
+    "eging"
+   ]
+  },
+  "campo": "onda",
+  "op": "<",
+  "valore": 0.5,
+  "punti": 2,
+  "motivo": "Mare calmo: l'esca lavora bene"
+ },
+ {
+  "id": "eging-mare-mosso",
+  "applicaA": {
+   "tecniche": [
+    "eging"
+   ]
+  },
+  "campo": "onda",
+  "op": ">",
+  "valore": 1.0,
+  "punti": -3,
+  "motivo": "Mare troppo mosso per l'eging"
+ },
+ {
+  "id": "eging-luce-bassa",
+  "applicaA": {
+   "tecniche": [
+    "eging"
+   ]
+  },
+  "campo": "luce",
+  "op": "in",
+  "valore": [
+   "alba",
+   "tramonto",
+   "notte",
+   "sera"
+  ],
+  "punti": 2,
+  "motivo": "Luce bassa: i cefalopodi si avvicinano a riva"
+ },
+ {
+  "id": "eging-vento-forte",
+  "applicaA": {
+   "tecniche": [
+    "eging"
+   ]
+  },
+  "campo": "ventoMedio",
+  "op": ">",
+  "valore": 20,
+  "punti": -2,
+  "motivo": "Vento forte: il filo fa la pancia e non senti la seppia"
+ },
+ {
+  "id": "eging-acqua-sporca",
+  "applicaA": {
+   "tecniche": [
+    "eging"
+   ],
+   "tipiSpot": [
+    "foce"
+   ]
+  },
+  "campo": "pioggia48",
+  "op": ">",
+  "valore": 15,
+  "punti": -2,
+  "motivo": "Acqua sporca dopo la pioggia: i cefalopodi si allontanano"
+ },
+ {
+  "id": "spigola-acqua-velata",
+  "applicaA": {
+   "specie": [
+    "spigola"
+   ],
+   "tipiSpot": [
+    "foce"
+   ]
+  },
+  "campo": "pioggia72",
+  "op": "tra",
+  "valore": [
+   5,
+   40
+  ],
+  "punti": 3,
+  "motivo": "Acqua velata dopo la pioggia: la spigola caccia alla foce"
+ },
+ {
+  "id": "spigola-mare-formato",
+  "applicaA": {
+   "specie": [
+    "spigola"
+   ]
+  },
+  "campo": "onda",
+  "op": "tra",
+  "valore": [
+   0.5,
+   1.2
+  ],
+  "punti": 2,
+  "motivo": "Mare leggermente mosso: la spigola si avvicina a riva"
+ },
+ {
+  "id": "spigola-scaduta",
+  "applicaA": {
+   "specie": [
+    "spigola"
+   ]
+  },
+  "campo": "ondaTrend",
+  "op": "==",
+  "valore": "in calo",
+  "punti": 2,
+  "motivo": "Mare in scaduta dopo la mareggiata"
+ },
+ {
+  "id": "spigola-piatto-giorno",
+  "applicaA": {
+   "specie": [
+    "spigola"
+   ]
+  },
+  "campo": "onda",
+  "op": "<",
+  "valore": 0.3,
+  "punti": -1,
+  "motivo": "Mare piatto: di giorno la spigola sta al largo"
+ },
+ {
+  "id": "predatori-luce",
+  "applicaA": {
+   "specie": [
+    "spigola",
+    "serra",
+    "leccia-amia"
+   ]
+  },
+  "campo": "luce",
+  "op": "in",
+  "valore": [
+   "alba",
+   "tramonto"
+  ],
+  "punti": 2,
+  "motivo": "Alba o tramonto: i predatori cacciano sottocosta"
+ },
+ {
+  "id": "predatori-giorno",
+  "applicaA": {
+   "specie": [
+    "spigola",
+    "serra",
+    "leccia-amia"
+   ]
+  },
+  "campo": "luce",
+  "op": "in",
+  "valore": [
+   "mattina",
+   "pomeriggio"
+  ],
+  "punti": -1,
+  "motivo": "Pieno giorno: i predatori sono meno attivi"
+ },
+ {
+  "id": "orata-mormora-scaduta",
+  "applicaA": {
+   "specie": [
+    "orata",
+    "mormora"
+   ]
+  },
+  "campo": "ondaTrend",
+  "op": "==",
+  "valore": "in calo",
+  "punti": 3,
+  "motivo": "Mare che si calma dopo la mareggiata: orate e mormore mangiano sotto riva"
+ },
+ {
+  "id": "fondo-mare-grosso",
+  "applicaA": {
+   "specie": [
+    "orata",
+    "mormora",
+    "sarago-maggiore",
+    "sarago-fasciato"
+   ]
+  },
+  "campo": "onda",
+  "op": ">",
+  "valore": 1.5,
+  "punti": -2,
+  "motivo": "Mare troppo grosso per pescare a fondo"
+ },
+ {
+  "id": "lago-pressione",
+  "applicaA": {
+   "tipiSpot": [
+    "lago"
+   ]
+  },
+  "campo": "deltaP12h",
+  "op": "tra",
+  "valore": [
+   -4,
+   1
+  ],
+  "punti": 1,
+  "motivo": "Pressione stabile o in leggero calo"
+ },
+ {
+  "id": "lago-vento",
+  "applicaA": {
+   "tipiSpot": [
+    "lago"
+   ]
+  },
+  "campo": "ventoMedio",
+  "op": "tra",
+  "valore": [
+   5,
+   15
+  ],
+  "punti": 1,
+  "motivo": "Un po' di vento increspa l'acqua e nasconde il filo"
+ },
+ {
+  "id": "lago-luce",
+  "applicaA": {
+   "tipiSpot": [
+    "lago"
+   ]
+  },
+  "campo": "luce",
+  "op": "in",
+  "valore": [
+   "alba",
+   "tramonto"
+  ],
+  "punti": 2,
+  "motivo": "Alba o tramonto: i pesci si avvicinano alla riva"
+ },
+ {
+  "id": "lago-notte",
+  "applicaA": {
+   "tipiSpot": [
+    "lago"
+   ]
+  },
+  "campo": "luce",
+  "op": "in",
+  "valore": [
+   "notte",
+   "sera"
+  ],
+  "punti": -10,
+  "motivo": "In acqua dolce di notte la pesca è vietata (L.R. Lazio 87/1990, art. 14)"
+ },
+ {
+  "id": "tutti-pressione-calo",
+  "applicaA": {},
+  "campo": "deltaP12h",
+  "op": "<",
+  "valore": -3,
+  "punti": 1,
+  "motivo": "Pressione in calo prima della perturbazione: i pesci mangiano"
+ },
+ {
+  "id": "tutti-pressione-salita",
+  "applicaA": {},
+  "campo": "deltaP12h",
+  "op": ">",
+  "valore": 4,
+  "punti": -1,
+  "motivo": "Pressione in salita veloce dopo il maltempo"
+ }
+]
