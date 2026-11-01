@@ -1,0 +1,12 @@
+[
+  {"id":"riva-traiano","nome":"Riva di Traiano, diga foranea (Civitavecchia)","lat":42.0655,"lon":11.8125,"tipo":"molo","mare":true,"fiume":false,"esposizione":240,"minutiDaRoma":60},
+  {"id":"santa-marinella","nome":"Santa Marinella, lungomare e Capo Linaro","lat":42.0300,"lon":11.8420,"tipo":"scogliera","mare":true,"fiume":false,"esposizione":210,"minutiDaRoma":50},
+  {"id":"fiumicino-tevere","nome":"Canale e foce del Tevere (Fiumicino)","lat":41.7695,"lon":12.2125,"tipo":"foce","mare":true,"fiume":true,"esposizione":250,"minutiDaRoma":35},
+  {"id":"foce-arrone","nome":"Foce dell'Arrone (Fregene/Maccarese)","lat":41.8620,"lon":12.1880,"tipo":"foce","mare":true,"fiume":true,"esposizione":240,"minutiDaRoma":35},
+  {"id":"foce-marta","nome":"Foce del Marta (Lido di Tarquinia)","lat":42.2105,"lon":11.6960,"tipo":"foce","mare":true,"fiume":true,"esposizione":240,"minutiDaRoma":75},
+  {"id":"anzio","nome":"Anzio, Capo d'Anzio e porto","lat":41.4440,"lon":12.6170,"tipo":"scogliera","mare":true,"fiume":false,"esposizione":190,"minutiDaRoma":80},
+  {"id":"bracciano","nome":"Lago di Bracciano (Vigna di Valle, Anguillara, Trevignano)","lat":42.0880,"lon":12.2150,"tipo":"lago","mare":false,"fiume":false,"esposizione":null,"minutiDaRoma":40},
+  {"id":"martignano","nome":"Lago di Martignano","lat":42.1110,"lon":12.3160,"tipo":"lago","mare":false,"fiume":false,"esposizione":null,"minutiDaRoma":40},
+  {"id":"tos-marina-grosseto","nome":"Mare davanti a Marina di Grosseto (barca)","lat":42.7150,"lon":10.9650,"tipo":"barca","mare":true,"fiume":false,"esposizione":250,"minutiDaRoma":150},
+  {"id":"tos-cala-forno","nome":"Cala di Forno (barca)","lat":42.6050,"lon":11.0450,"tipo":"barca","mare":true,"fiume":false,"esposizione":240,"minutiDaRoma":160}
+]

@@ -1,0 +1,11 @@
+{
+  "name": "pesca-lazio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node page/build.mjs"
+  },
+  "devDependencies": {}
+}
